@@ -1,6 +1,6 @@
 # **IPL Data Analysis 2022**
 
-We have performed web scrapping on the data of IPL 2022. We have retrieved data such as:
+We have performed web scrapping on the data of IPL 2022 which was dynamic in nature. We have retrieved data such as:
 
 1. Points Table
 2. Orange Cap Table
