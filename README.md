@@ -1,4 +1,4 @@
-# **IPL Data Analysis 2022**
+# **Exploratory Data Analysis Of IPL 2022**
 
 We have performed web scrapping on the data of IPL 2022 which was dynamic in nature. We have retrieved data such as:
 
